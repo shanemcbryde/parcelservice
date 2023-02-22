@@ -4,7 +4,13 @@ A package delivery project, essentially the traveling salesman problem, to deter
 To get the code run the following from the command line:
 
 ```commandline
-git clone https://github.coms/shanemcbryde/parcelservice.git
+git clone https://github.com/shanemcbryde/parcelservice.git
+```
+
+Change directory to `...\parcelservice\wgups` using:
+
+```commandline
+cd parcelservice\wgups
 ```
 
 From the `wgups` directory where `parcelservice.py` is located run:
@@ -21,7 +27,7 @@ The status can be checked for any package at a user specified time, as shown her
 
 ![](package2.jpg?raw=true "Single Package Status")
 
-Or, the status of all packages at a user specified time, as shown here:
+Or, the status of all packages at once at a user specified time, as shown here:
 
 ![](status1.jpg?raw=true "Single Package Status")
 
