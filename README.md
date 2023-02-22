@@ -12,3 +12,6 @@ From the main directory where `parcelservice.py` is located run:
 ```commandline
 python parcelservice.py
 ```
+
+![](deliveries.jpg?raw=true "Daily Local Deliveries")
+
