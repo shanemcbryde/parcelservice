@@ -13,5 +13,15 @@ From the main directory where `parcelservice.py` is located run:
 python parcelservice.py
 ```
 
+The program will run and display the calculated delivery schedule for the day's packages, as shown here: 
+
 ![](deliveries.jpg?raw=true "Daily Local Deliveries")
+
+The status can be checked for any package at a user specified time, as shown here:
+
+![](package1.jpg?raw=true "Single Package Status")
+
+Or, the status of all packages at a user specified time, as shown here:
+
+![](status1.jpg?raw=true "Single Package Status")
 
