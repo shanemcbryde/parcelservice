@@ -4,10 +4,10 @@ A package delivery project, essentially the traveling salesman problem, to deter
 To get the code run the following from the command line:
 
 ```commandline
-git clone https://github.comshanemcbryde/parcelservice.git
+git clone https://github.coms/shanemcbryde/parcelservice.git
 ```
 
-From the main directory where `parcelservice.py` is located run:
+From the `wgups` directory where `parcelservice.py` is located run:
 
 ```commandline
 python parcelservice.py
