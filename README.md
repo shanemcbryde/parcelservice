@@ -19,7 +19,7 @@ The program will run and display the calculated delivery schedule for the day's 
 
 The status can be checked for any package at a user specified time, as shown here:
 
-![](package1.jpg?raw=true "Single Package Status")
+![](package2.jpg?raw=true "Single Package Status")
 
 Or, the status of all packages at a user specified time, as shown here:
 
