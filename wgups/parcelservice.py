@@ -5,13 +5,6 @@
 from processing import initialize, route, deliver, lookup
 from processing.helper import time
 
-
-# Overall time complexity: O(n^5)
-# Overall space complexity: O(n)
-# Since the number of trucks (m) cannot be greater than the number of packages (n),
-# the worst case scenario is that every package is delivered on a unique truck.
-# Therefore, m is equal to n and nm becomes n^2.
-
 # Single, easily accessible location for the necessary data either not found in the provided files
 # or data unique to and easily identified for this and any future delivery area and daily package allotment.
 destination_csv = 'csv/destination.csv'
