@@ -1,7 +1,3 @@
-# Shane McBryde, Student ID: 00077514
-# Western Governors University
-# Data Structures and Algorithms II – C950
-
 from processing import initialize, route, deliver, lookup
 from processing.helper import time
 
